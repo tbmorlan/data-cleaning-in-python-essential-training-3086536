@@ -1,6 +1,7 @@
 invoke~=1.7
 matplotlib~=3.5
 pandas~=1.4
+numpy~=1.23.5
 pandera~=0.11
 pyarrow~=14.0
 

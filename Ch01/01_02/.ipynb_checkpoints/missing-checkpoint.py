@@ -13,5 +13,3 @@ df.isnull()
 
 # %%
 df.isnull().any(axis=1)
-
-# %%
